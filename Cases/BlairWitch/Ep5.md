@@ -56,7 +56,7 @@
 #### Incident report 1
 - Fist fight on lunch break
 - "Remarkably vicious"
-- One lost 4 teeth
+- one lost 4 teeth
 - "She could hear everything he said"
 
 #### Incident Report 2
@@ -89,4 +89,13 @@
 
 #### Incident Report 6
 - 4 fires started by worker
+
+#### Timeline
+- IR1 (4x)
+- IR2 (None)
+- IR3 (None)
+- IR4 (3x)
+- IR5 (None)
+- IR6 (4)
+- CR (7x, 8x)
 -
