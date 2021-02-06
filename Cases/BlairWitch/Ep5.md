@@ -2,7 +2,7 @@
 - Rosemary missing
 - Sherrif not taking calls from Anthony
 - Items and files that shouldn't exist found
-- Lumber-mill was demolished over a decade ago
+- Lumber-mill was demolished over in 1950's
 - Someone or something interfering with rosemary's site
 - Vision goes blurry wen looking at text on site
 
@@ -32,7 +32,7 @@
 - Felt safe in there
 
 #### Note 6
-- Groaning sounds from before heard, this time multiple
+- Groaning sounds from before heard, surrounded by them
 - They're scratching at the front door
 - They hate the light
 - Saw a mention of the breaker room, going to flood the place with light
