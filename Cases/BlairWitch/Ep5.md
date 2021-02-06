@@ -91,11 +91,11 @@
 - 4 fires started by worker
 
 #### Timeline
-- IR1 (4x)
-- IR2 (None)
-- IR3 (None)
-- IR4 (3x)
-- IR5 (None)
-- IR6 (4)
-- CR (7x, 8x)
+- IR1
+- IR2
+- IR3
+- IR4
+- IR5
+- IR6
+- CR
 -
