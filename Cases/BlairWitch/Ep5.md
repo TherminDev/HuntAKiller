@@ -37,4 +37,4 @@
 - They're scratching at the front door
 - They hate the light
 - Saw a mention of the breaker room, going to flood the place with light
-- Empty cigarette pack by breaker roo
+- Empty cigarette pack by breaker room
