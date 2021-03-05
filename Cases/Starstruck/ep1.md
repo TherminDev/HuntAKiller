@@ -31,9 +31,10 @@
 
 ## Police Incident Info
 - Rachel and Gabriel timeline do not match
- - Rachel said they were talking for 20 minutes
- - Gabriel says a few minutes
- - Dean says Rachel was arguing/upset behind Gabriel's trailer, but nobody else was heard.
+- Rachel said they were talking for 20 minutes
+- Gabriel says a few minutes
+- Dean says Rachel was arguing/upset behind Gabriel's trailer, but nobody else was heard.
+- Dean alibi and item list doesn't add up.
 - Oliver and Ken where on loading dock together
 
 ## Just4Fun Reunited
