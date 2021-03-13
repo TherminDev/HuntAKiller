@@ -1,6 +1,6 @@
-HUD IS CARVER
-Hear him I think he's saying it's time to rest but I can't give up I can feel Liam near me.
-I did what she asked now her eyes are on you
+## Additional
+- Hud is carver?? Handwriting is same
+- Hear him I think he's saying it's time to rest but I can't give up I can feel Liam near me.
 
 ## Goal
 - Find out the password to the locked file
@@ -41,6 +41,7 @@ I did what she asked now her eyes are on you
 - She determines the fate of the forest (witch)
 - Forest full of lost souls
 - New day might finally come
+- I did what she asked now her eyes are on you
 
 ## Newspaper Clipping
 - Rosemary had child in forest two months early
@@ -56,7 +57,9 @@ I did what she asked now her eyes are on you
 ## Random thing
 - "Hear him I think he's saying it's time to" -Cipher, jumble
 
-## Hud Love Letter Oct. 6, 1997
+## Love Letters
+
+####- Hud Love Letter Oct. 6, 1997
 - Hud bled in the forest, in shape of hand
 - Feels warm
 - Hud is creepy
